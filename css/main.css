@@ -155,7 +155,7 @@ li.nav-item {
     -webkit-transform: rotate(-18deg);
         -ms-transform: rotate(-18deg);
             transform: rotate(-18deg);
-    z-index: 0;
+    z-index: -1;
 }
 .caffe-header .navbar-collapse:not(.show) .nav-link:hover {
     background: #b66623;
